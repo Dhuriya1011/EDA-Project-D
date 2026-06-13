@@ -1,2 +1,1 @@
-# EDA-Project-D
-To perform Exploratory Data Analysis on sales dataset
+The objective of this project is to perform Exploratory Data Analysis (EDA) on a sales dataset to identify patterns, trends, correlations, and key factors influencing business performance using statistical summaries and visualizations
