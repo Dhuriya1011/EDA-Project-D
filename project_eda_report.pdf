@@ -1,0 +1,53 @@
+# Exploratory Data Analysis (EDA) Project
+
+## Introduction
+
+Exploratory Data Analysis (EDA) is an important step in data science that helps understand datasets through statistical summaries and visualizations.
+
+## Objective
+
+To analyze a sales dataset and identify trends, correlations, and factors affecting sales performance.
+
+## Dataset Description
+
+The dataset contains:
+
+* Monthly Sales
+* Marketing Spend
+* Customer Satisfaction
+
+## Methodology
+
+1. Loaded and inspected the dataset.
+2. Generated statistical summaries.
+3. Identified correlations among variables.
+4. Created visualizations to uncover trends.
+5. Interpreted findings and business insights.
+
+## Key Findings
+
+* Sales increased consistently over time.
+* Marketing spend showed a strong positive correlation with sales.
+* Customer satisfaction improved alongside sales growth.
+* Higher marketing investment was associated with better business performance.
+
+## Statistical Summary
+
+Mean, median, maximum, minimum, and standard deviation values were calculated using Python.
+
+## Visualizations
+
+* Monthly Sales Trend Chart
+* Correlation Heatmap
+
+## Conclusion
+
+The analysis revealed that marketing expenditure and customer satisfaction significantly influence sales performance. EDA helped uncover meaningful business insights and patterns within the dataset.
+
+## Learning Outcomes
+
+* Data exploration techniques
+* Statistical analysis
+* Data visualization
+* Correlation analysis
+* Insight generation and reporting
